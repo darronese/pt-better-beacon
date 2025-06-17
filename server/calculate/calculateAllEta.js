@@ -1,5 +1,5 @@
 import fs from "fs/promises";
-import { fetchStatic } from "./staticData.js";
+import { fetchStatic } from "../build-static/staticData.js";
 import haversine from "haversine-distance";
 
 async function loadStaticData() {
@@ -62,7 +62,6 @@ export async function calculateAllEta(busPositions) {
   });
   */
 
-  /*
   // debugging step: printing all bus positions and id
   console.log("\nLive Bus Positions:");
   busPositions.forEach((bus, index) => {
@@ -73,5 +72,4 @@ export async function calculateAllEta(busPositions) {
     console.log("  Bearing:  ", bus.position.bearing);
     console.log("  Speed:    ", bus.position.speed);
   });
-  */
 }

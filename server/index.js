@@ -1,5 +1,5 @@
-import { rawBusSocket } from "./rawBusSocket.js";
-import { processRawData } from "./processRawData.js";
+import { rawBusSocket } from "./web-socket/rawBusSocket.js";
+import { processRawData } from "./web-socket/processRawData.js";
 // catch error
 run().catch((err) => console.log(err));
 
