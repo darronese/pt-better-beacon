@@ -123,12 +123,14 @@ export async function combineStatic() {
   }
   */
 
+  /* debug
   for (const [key, value] of stopKeyMap) {
     console.log("Key(Stop):", key, "Value(Trip):", value);
   }
   for (const [key, value] of tripKeyMap) {
     console.log("Key(Trip):", key, "Value(Key):", value);
   }
+  */
 
   // now we can write to file
 

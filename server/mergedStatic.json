@@ -1,173 +1,8 @@
 [
   [
-    "3139-3052112",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "3052112",
-      "route_id": "3139",
-      "stop_name": "Steptoe Village",
-      "stop_lat": "46.741133",
-      "stop_lon": "-117.164659"
-    }
-  ],
-  [
-    "3139-3715712",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "3715712",
-      "route_id": "3139",
-      "stop_name": "The Grove",
-      "stop_lat": "46.742807",
-      "stop_lon": "-117.163783"
-    }
-  ],
-  [
-    "3139-4582376",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "4582376",
-      "route_id": "3139",
-      "stop_name": "Boulder Creek",
-      "stop_lat": "46.744022",
-      "stop_lon": "-117.157549"
-    }
-  ],
-  [
-    "3139-3875953",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "3875953",
-      "route_id": "3139",
-      "stop_name": "opp. Summer Hill",
-      "stop_lat": "46.743817",
-      "stop_lon": "-117.153473"
-    }
-  ],
-  [
-    "3139-3053988",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "3053988",
-      "route_id": "3139",
-      "stop_name": "opp. Cougar Crest",
-      "stop_lat": "46.746536",
-      "stop_lon": "-117.151527"
-    }
-  ],
-  [
-    "3139-3053989",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "3053989",
-      "route_id": "3139",
-      "stop_name": "Pine Ridge Upper",
-      "stop_lat": "46.747698",
-      "stop_lon": "-117.150857"
-    }
-  ],
-  [
-    "3139-3053990",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "3053990",
-      "route_id": "3139",
-      "stop_name": "opp. Birch Hills",
-      "stop_lat": "46.748305",
-      "stop_lon": "-117.147953"
-    }
-  ],
-  [
-    "3139-3053991",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "3053991",
-      "route_id": "3139",
-      "stop_name": "Maple Valley",
-      "stop_lat": "46.746291",
-      "stop_lon": "-117.145409"
-    }
-  ],
-  [
-    "3139-3053992",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "3053992",
-      "route_id": "3139",
-      "stop_name": "Aspen Village",
-      "stop_lat": "46.74425",
-      "stop_lon": "-117.148155"
-    }
-  ],
-  [
-    "3139-9035552",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "9035552",
-      "route_id": "3139",
-      "stop_name": "Rec. Center on North Fairway",
-      "stop_lat": "46.73739",
-      "stop_lon": "-117.151924"
-    }
-  ],
-  [
-    "3139-3053449",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "3053449",
-      "route_id": "3139",
-      "stop_name": "Concordia Lutheran Church",
-      "stop_lat": "46.735981",
-      "stop_lon": "-117.158638"
-    }
-  ],
-  [
-    "3139-9766759",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "9766759",
-      "route_id": "3139",
-      "stop_name": "Flag Lane east bound",
-      "stop_lat": "46.734166",
-      "stop_lon": "-117.159285"
-    }
-  ],
-  [
-    "3139-3053998",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "3053998",
-      "route_id": "3139",
-      "stop_name": "Rec. Center on Orchard",
-      "stop_lat": "46.736694",
-      "stop_lon": "-117.156641"
-    }
-  ],
-  [
-    "3139-3053999",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "3053999",
-      "route_id": "3139",
-      "stop_name": "Nez Perce Village",
-      "stop_lat": "46.739929",
-      "stop_lon": "-117.156416"
-    }
-  ],
-  [
-    "3139-3716350",
-    {
-      "trip_id": "APTC-T9-7",
-      "stop_id": "3716350",
-      "route_id": "3139",
-      "stop_name": "Valley Playfields",
-      "stop_lat": "46.74018",
-      "stop_lon": "-117.158503"
-    }
-  ],
-  [
     "6448-9647275",
     {
-      "trip_id": "Arr2359-18",
+      "trip_id": "Arr1843",
       "stop_id": "9647275",
       "route_id": "6448",
       "stop_name": "Airport Terminal",
@@ -178,7 +13,7 @@
   [
     "6448-9767756",
     {
-      "trip_id": "Arr2359-18",
+      "trip_id": "Arr1843",
       "stop_id": "9767756",
       "route_id": "6448",
       "stop_name": "Flag Lane west bound",
@@ -189,7 +24,7 @@
   [
     "6448-3053458",
     {
-      "trip_id": "Arr2359-18",
+      "trip_id": "Arr1843",
       "stop_id": "3053458",
       "route_id": "6448",
       "stop_name": "Outdoor Rec. Center",
@@ -200,7 +35,7 @@
   [
     "6448-3053993",
     {
-      "trip_id": "Arr2359-18",
+      "trip_id": "Arr1843",
       "stop_id": "3053993",
       "route_id": "6448",
       "stop_name": "Cougar Ridge",
@@ -211,7 +46,7 @@
   [
     "6448-3053996",
     {
-      "trip_id": "Arr2359-18",
+      "trip_id": "Arr1843",
       "stop_id": "3053996",
       "route_id": "6448",
       "stop_name": "Providence Court",
@@ -222,7 +57,7 @@
   [
     "6448-3055111",
     {
-      "trip_id": "Arr2359-18",
+      "trip_id": "Arr1843",
       "stop_id": "3055111",
       "route_id": "6448",
       "stop_name": "McDonalds North",
@@ -233,7 +68,7 @@
   [
     "6448-3052090",
     {
-      "trip_id": "Arr2359-18",
+      "trip_id": "Arr1843",
       "stop_id": "3052090",
       "route_id": "6448",
       "stop_name": "Transfer Station",
@@ -244,7 +79,7 @@
   [
     "6448-3052770",
     {
-      "trip_id": "Arr2359-18",
+      "trip_id": "Arr1843",
       "stop_id": "3052770",
       "route_id": "6448",
       "stop_name": "Golden Hills",
@@ -255,7 +90,7 @@
   [
     "6448-3052775",
     {
-      "trip_id": "Arr2359-18",
+      "trip_id": "Arr1843",
       "stop_id": "3052775",
       "route_id": "6448",
       "stop_name": "Whispering Hills",
@@ -266,7 +101,7 @@
   [
     "6448-3053183",
     {
-      "trip_id": "Arr2359-18",
+      "trip_id": "Arr1843",
       "stop_id": "3053183",
       "route_id": "6448",
       "stop_name": "Grand and Center",
@@ -277,7 +112,7 @@
   [
     "6448-3053184",
     {
-      "trip_id": "Arr2359-18",
+      "trip_id": "Arr1843",
       "stop_id": "3053184",
       "route_id": "6448",
       "stop_name": "Terrace Estates",
@@ -288,7 +123,7 @@
   [
     "6448-3053189",
     {
-      "trip_id": "Arr2359-18",
+      "trip_id": "Arr1843",
       "stop_id": "3053189",
       "route_id": "6448",
       "stop_name": "opp. Banner Bank",
@@ -299,7 +134,7 @@
   [
     "6448-3053192",
     {
-      "trip_id": "Arr2359-18",
+      "trip_id": "Arr1843",
       "stop_id": "3053192",
       "route_id": "6448",
       "stop_name": "Village Centre Cinemas",
@@ -310,7 +145,7 @@
   [
     "6448-3053194",
     {
-      "trip_id": "Arr2359-18",
+      "trip_id": "Arr1843",
       "stop_id": "3053194",
       "route_id": "6448",
       "stop_name": "Birch and Barley",
@@ -321,7 +156,7 @@
   [
     "3135-3052090",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052090",
       "route_id": "3135",
       "stop_name": "Transfer Station",
@@ -332,7 +167,7 @@
   [
     "3135-3052091",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052091",
       "route_id": "3135",
       "stop_name": "State and Harrison",
@@ -343,7 +178,7 @@
   [
     "3135-4559963",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "4559963",
       "route_id": "3135",
       "stop_name": "Harrison and Bryant",
@@ -354,7 +189,7 @@
   [
     "3135-3052093",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052093",
       "route_id": "3135",
       "stop_name": "Harrison and Fisk",
@@ -365,7 +200,7 @@
   [
     "3135-3052095",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052095",
       "route_id": "3135",
       "stop_name": "Clifford and Darrow",
@@ -376,7 +211,7 @@
   [
     "3135-3052096",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052096",
       "route_id": "3135",
       "stop_name": "Darrow and Orion",
@@ -387,7 +222,7 @@
   [
     "3135-3052097",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052097",
       "route_id": "3135",
       "stop_name": "Jefferson Elementary",
@@ -398,7 +233,7 @@
   [
     "3135-3052099",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052099",
       "route_id": "3135",
       "stop_name": "State and Timothy",
@@ -409,7 +244,7 @@
   [
     "3135-3052100",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052100",
       "route_id": "3135",
       "stop_name": "Janet and Hall",
@@ -420,7 +255,7 @@
   [
     "3135-3052101",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052101",
       "route_id": "3135",
       "stop_name": "Hall and Orion",
@@ -431,7 +266,7 @@
   [
     "3135-3052102",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052102",
       "route_id": "3135",
       "stop_name": "Aquatic Center",
@@ -442,7 +277,7 @@
   [
     "3135-3052104",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052104",
       "route_id": "3135",
       "stop_name": "Lamont and Robert",
@@ -453,7 +288,7 @@
   [
     "3135-3052105",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052105",
       "route_id": "3135",
       "stop_name": "Dillon and Terre View, east bound",
@@ -464,7 +299,7 @@
   [
     "3135-3052115",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052115",
       "route_id": "3135",
       "stop_name": "Grand and Terre View",
@@ -475,7 +310,7 @@
   [
     "3135-3052116",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052116",
       "route_id": "3135",
       "stop_name": "Grand and Larry",
@@ -486,7 +321,7 @@
   [
     "3135-3052117",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052117",
       "route_id": "3135",
       "stop_name": "Grand and Turner",
@@ -497,7 +332,7 @@
   [
     "3135-3052119",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052119",
       "route_id": "3135",
       "stop_name": "Taco Bell",
@@ -508,7 +343,7 @@
   [
     "3135-8028742",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "8028742",
       "route_id": "3135",
       "stop_name": "Pullman Church of Christ",
@@ -519,7 +354,7 @@
   [
     "3135-3052120",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052120",
       "route_id": "3135",
       "stop_name": "Harvey/Duncan",
@@ -530,7 +365,7 @@
   [
     "3135-3052121",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052121",
       "route_id": "3135",
       "stop_name": "Streit Perham",
@@ -541,7 +376,7 @@
   [
     "3135-9766759",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "9766759",
       "route_id": "3135",
       "stop_name": "Flag Lane east bound",
@@ -552,7 +387,7 @@
   [
     "3135-3052123",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052123",
       "route_id": "3135",
       "stop_name": "Gesa Field",
@@ -563,7 +398,7 @@
   [
     "3135-3052124",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052124",
       "route_id": "3135",
       "stop_name": "Troy Lane",
@@ -572,53 +407,42 @@
     }
   ],
   [
-    "3135-3052125",
+    "3135-10896301",
     {
-      "trip_id": "PM-BT-T1-7",
-      "stop_id": "3052125",
+      "trip_id": "B-T9",
+      "stop_id": "10896301",
       "route_id": "3135",
-      "stop_name": "Spokane and Washington",
-      "stop_lat": "46.72768",
-      "stop_lon": "-117.168547"
+      "stop_name": "The Spark",
+      "stop_lat": "46.727763",
+      "stop_lon": "-117.16584"
     }
   ],
   [
-    "3135-3052127",
+    "3135-8088759",
     {
-      "trip_id": "PM-BT-T1-7",
-      "stop_id": "3052127",
+      "trip_id": "B-T9",
+      "stop_id": "8088759",
       "route_id": "3135",
-      "stop_name": "Honors Hall",
-      "stop_lat": "46.731529",
-      "stop_lon": "-117.168395"
+      "stop_name": "WSU Visitor Center - north bound",
+      "stop_lat": "46.729642",
+      "stop_lon": "-117.174015"
     }
   ],
   [
-    "3135-7753660",
+    "3135-3053197",
     {
-      "trip_id": "PM-BT-T1-7",
-      "stop_id": "7753660",
+      "trip_id": "B-T9",
+      "stop_id": "3053197",
       "route_id": "3135",
-      "stop_name": "Campus and Ruby",
-      "stop_lat": "46.733325",
-      "stop_lon": "-117.17176"
-    }
-  ],
-  [
-    "3135-3052130",
-    {
-      "trip_id": "PM-BT-T1-7",
-      "stop_id": "3052130",
-      "route_id": "3135",
-      "stop_name": "Maiden and Spaulding, south bound",
-      "stop_lat": "46.731814",
-      "stop_lon": "-117.175833"
+      "stop_name": "Pine Street Mall - north bound",
+      "stop_lat": "46.729682",
+      "stop_lon": "-117.179009"
     }
   ],
   [
     "3135-3052132",
     {
-      "trip_id": "PM-BT-T1-7",
+      "trip_id": "B-T9",
       "stop_id": "3052132",
       "route_id": "3135",
       "stop_name": "Neill Library",
@@ -627,86 +451,328 @@
     }
   ],
   [
-    "5328-9766759",
+    "3989-3875953",
     {
-      "trip_id": "CampShut-T9-7",
+      "trip_id": "CSE-T9",
+      "stop_id": "3875953",
+      "route_id": "3989",
+      "stop_name": "opp. Summer Hill",
+      "stop_lat": "46.743817",
+      "stop_lon": "-117.153473"
+    }
+  ],
+  [
+    "3989-3053988",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3053988",
+      "route_id": "3989",
+      "stop_name": "opp. Cougar Crest",
+      "stop_lat": "46.746536",
+      "stop_lon": "-117.151527"
+    }
+  ],
+  [
+    "3989-3053989",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3053989",
+      "route_id": "3989",
+      "stop_name": "Pine Ridge Upper",
+      "stop_lat": "46.747698",
+      "stop_lon": "-117.150857"
+    }
+  ],
+  [
+    "3989-3053990",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3053990",
+      "route_id": "3989",
+      "stop_name": "opp. Birch Hills",
+      "stop_lat": "46.748305",
+      "stop_lon": "-117.147953"
+    }
+  ],
+  [
+    "3989-3053991",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3053991",
+      "route_id": "3989",
+      "stop_name": "Maple Valley",
+      "stop_lat": "46.746291",
+      "stop_lon": "-117.145409"
+    }
+  ],
+  [
+    "3989-3053992",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3053992",
+      "route_id": "3989",
+      "stop_name": "Aspen Village",
+      "stop_lat": "46.74425",
+      "stop_lon": "-117.148155"
+    }
+  ],
+  [
+    "3989-3053993",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3053993",
+      "route_id": "3989",
+      "stop_name": "Cougar Ridge",
+      "stop_lat": "46.742378",
+      "stop_lon": "-117.152151"
+    }
+  ],
+  [
+    "3989-3053994",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3053994",
+      "route_id": "3989",
+      "stop_name": "Terre View and Merman",
+      "stop_lat": "46.742988",
+      "stop_lon": "-117.154944"
+    }
+  ],
+  [
+    "3989-3052111",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3052111",
+      "route_id": "3989",
+      "stop_name": "Terrace Apartments",
+      "stop_lat": "46.740671",
+      "stop_lon": "-117.159303"
+    }
+  ],
+  [
+    "3989-3053995",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3053995",
+      "route_id": "3989",
+      "stop_name": "Emerald Downs",
+      "stop_lat": "46.739898",
+      "stop_lon": "-117.163958"
+    }
+  ],
+  [
+    "3989-3053996",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3053996",
+      "route_id": "3989",
+      "stop_name": "Providence Court",
+      "stop_lat": "46.738532",
+      "stop_lon": "-117.167658"
+    }
+  ],
+  [
+    "3989-8028742",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "8028742",
+      "route_id": "3989",
+      "stop_name": "Pullman Church of Christ",
+      "stop_lat": "46.73739",
+      "stop_lon": "-117.166097"
+    }
+  ],
+  [
+    "3989-3052120",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3052120",
+      "route_id": "3989",
+      "stop_name": "Harvey/Duncan",
+      "stop_lat": "46.736405",
+      "stop_lon": "-117.163101"
+    }
+  ],
+  [
+    "3989-3052121",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3052121",
+      "route_id": "3989",
+      "stop_name": "Streit Perham",
+      "stop_lat": "46.735681",
+      "stop_lon": "-117.159996"
+    }
+  ],
+  [
+    "3989-9766759",
+    {
+      "trip_id": "CSE-T9",
       "stop_id": "9766759",
-      "route_id": "5328",
+      "route_id": "3989",
       "stop_name": "Flag Lane east bound",
       "stop_lat": "46.734166",
       "stop_lon": "-117.159285"
     }
   ],
   [
-    "5328-3052123",
+    "3989-3052123",
     {
-      "trip_id": "CampShut-T9-7",
+      "trip_id": "CSE-T9",
       "stop_id": "3052123",
-      "route_id": "5328",
+      "route_id": "3989",
       "stop_name": "Gesa Field",
       "stop_lat": "46.731277",
       "stop_lon": "-117.159058"
     }
   ],
   [
-    "5328-3052124",
+    "3989-3052124",
     {
-      "trip_id": "CampShut-T9-7",
+      "trip_id": "CSE-T9",
       "stop_id": "3052124",
-      "route_id": "5328",
+      "route_id": "3989",
       "stop_name": "Troy Lane",
       "stop_lat": "46.728639",
       "stop_lon": "-117.162092"
     }
   ],
   [
-    "5328-3052125",
+    "3989-3052125",
     {
-      "trip_id": "CampShut-T9-7",
+      "trip_id": "CSE-T9",
       "stop_id": "3052125",
-      "route_id": "5328",
+      "route_id": "3989",
       "stop_name": "Spokane and Washington",
       "stop_lat": "46.72768",
       "stop_lon": "-117.168547"
     }
   ],
   [
-    "5328-3052127",
+    "3989-3053453",
     {
-      "trip_id": "CampShut-T9-7",
-      "stop_id": "3052127",
-      "route_id": "5328",
-      "stop_name": "Honors Hall",
-      "stop_lat": "46.731529",
-      "stop_lon": "-117.168395"
+      "trip_id": "CSE-T9",
+      "stop_id": "3053453",
+      "route_id": "3989",
+      "stop_name": "opposite The Spark",
+      "stop_lat": "46.727653",
+      "stop_lon": "-117.165749"
     }
   ],
   [
-    "5328-3052128",
+    "3989-3053454",
     {
-      "trip_id": "CampShut-T9-7",
-      "stop_id": "3052128",
-      "route_id": "5328",
-      "stop_name": "The Chinook",
-      "stop_lat": "46.732507",
-      "stop_lon": "-117.165812"
+      "trip_id": "CSE-T9",
+      "stop_id": "3053454",
+      "route_id": "3989",
+      "stop_name": "Bustad Hall",
+      "stop_lat": "46.729438",
+      "stop_lon": "-117.160031"
     }
   ],
   [
-    "5328-3052281",
+    "3989-3053455",
     {
-      "trip_id": "CampShut-T9-7",
-      "stop_id": "3052281",
-      "route_id": "5328",
-      "stop_name": "The Gyms",
-      "stop_lat": "46.73348",
-      "stop_lon": "-117.162143"
+      "trip_id": "CSE-T9",
+      "stop_id": "3053455",
+      "route_id": "3989",
+      "stop_name": "Vogel Biosciences",
+      "stop_lat": "46.731551",
+      "stop_lon": "-117.158789"
+    }
+  ],
+  [
+    "3989-6607123",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "6607123",
+      "route_id": "3989",
+      "stop_name": "Beasley Coliseum",
+      "stop_lat": "46.734127",
+      "stop_lon": "-117.158512"
+    }
+  ],
+  [
+    "3989-3053458",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3053458",
+      "route_id": "3989",
+      "stop_name": "Outdoor Rec. Center",
+      "stop_lat": "46.737821",
+      "stop_lon": "-117.150861"
+    }
+  ],
+  [
+    "3989-10965130",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "10965130",
+      "route_id": "3989",
+      "stop_name": "Cougar Ridge north bound",
+      "stop_lat": "46.742403",
+      "stop_lon": "-117.152129"
+    }
+  ],
+  [
+    "3989-10965155",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "10965155",
+      "route_id": "3989",
+      "stop_name": "Terre View & Merman north bound",
+      "stop_lat": "46.743011",
+      "stop_lon": "-117.15489"
+    }
+  ],
+  [
+    "3989-10965162",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "10965162",
+      "route_id": "3989",
+      "stop_name": "Terrace Apartments north bound",
+      "stop_lat": "46.740692",
+      "stop_lon": "-117.159363"
+    }
+  ],
+  [
+    "3989-3052112",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3052112",
+      "route_id": "3989",
+      "stop_name": "Steptoe Village",
+      "stop_lat": "46.741133",
+      "stop_lon": "-117.164659"
+    }
+  ],
+  [
+    "3989-3715712",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "3715712",
+      "route_id": "3989",
+      "stop_name": "The Grove",
+      "stop_lat": "46.742807",
+      "stop_lon": "-117.163783"
+    }
+  ],
+  [
+    "3989-4582376",
+    {
+      "trip_id": "CSE-T9",
+      "stop_id": "4582376",
+      "route_id": "3989",
+      "stop_name": "Boulder Creek",
+      "stop_lat": "46.744022",
+      "stop_lon": "-117.157549"
     }
   ],
   [
     "6307-3052779",
     {
-      "trip_id": "Dep1925-11",
+      "trip_id": "Dep1923",
       "stop_id": "3052779",
       "route_id": "6307",
       "stop_name": "opp. Birch and Barley",
@@ -717,7 +783,7 @@
   [
     "6307-3052781",
     {
-      "trip_id": "Dep1925-11",
+      "trip_id": "Dep1923",
       "stop_id": "3052781",
       "route_id": "6307",
       "stop_name": "Crimson and Gray Bookstore",
@@ -728,7 +794,7 @@
   [
     "6307-3052786",
     {
-      "trip_id": "Dep1925-11",
+      "trip_id": "Dep1923",
       "stop_id": "3052786",
       "route_id": "6307",
       "stop_name": "Safeway",
@@ -739,7 +805,7 @@
   [
     "6307-8600155",
     {
-      "trip_id": "Dep1925-11",
+      "trip_id": "Dep1923",
       "stop_id": "8600155",
       "route_id": "6307",
       "stop_name": "Phikun's Thai Cuisine",
@@ -750,7 +816,7 @@
   [
     "6307-3053207",
     {
-      "trip_id": "Dep1925-11",
+      "trip_id": "Dep1923",
       "stop_id": "3053207",
       "route_id": "6307",
       "stop_name": "Jin's Mart",
@@ -761,7 +827,7 @@
   [
     "6307-3052770",
     {
-      "trip_id": "Dep1925-11",
+      "trip_id": "Dep1923",
       "stop_id": "3052770",
       "route_id": "6307",
       "stop_name": "Golden Hills",
@@ -772,7 +838,7 @@
   [
     "6307-3052775",
     {
-      "trip_id": "Dep1925-11",
+      "trip_id": "Dep1923",
       "stop_id": "3052775",
       "route_id": "6307",
       "stop_name": "Whispering Hills",
@@ -783,7 +849,7 @@
   [
     "6307-3052090",
     {
-      "trip_id": "Dep1925-11",
+      "trip_id": "Dep1923",
       "stop_id": "3052090",
       "route_id": "6307",
       "stop_name": "Transfer Station",
@@ -794,7 +860,7 @@
   [
     "6307-3053182",
     {
-      "trip_id": "Dep1925-11",
+      "trip_id": "Dep1923",
       "stop_id": "3053182",
       "route_id": "6307",
       "stop_name": "Rosauers",
@@ -805,7 +871,7 @@
   [
     "6307-3056933",
     {
-      "trip_id": "Dep1925-11",
+      "trip_id": "Dep1923",
       "stop_id": "3056933",
       "route_id": "6307",
       "stop_name": "Pullman Family Medicine",
@@ -816,18 +882,18 @@
   [
     "6307-8757345",
     {
-      "trip_id": "Dep1925-11",
+      "trip_id": "Dep1923",
       "stop_id": "8757345",
       "route_id": "6307",
       "stop_name": "Chief Joseph Village",
-      "stop_lat": "46.74228864773284",
-      "stop_lon": "-117.15200314351654"
+      "stop_lat": "46.742289",
+      "stop_lon": "-117.152003"
     }
   ],
   [
     "6307-9035552",
     {
-      "trip_id": "Dep1925-11",
+      "trip_id": "Dep1923",
       "stop_id": "9035552",
       "route_id": "6307",
       "stop_name": "Rec. Center on North Fairway",
@@ -838,7 +904,7 @@
   [
     "6307-9766759",
     {
-      "trip_id": "Dep1925-11",
+      "trip_id": "Dep1923",
       "stop_id": "9766759",
       "route_id": "6307",
       "stop_name": "Flag Lane east bound",
@@ -849,7 +915,7 @@
   [
     "6307-9647275",
     {
-      "trip_id": "Dep1925-11",
+      "trip_id": "Dep1923",
       "stop_id": "9647275",
       "route_id": "6307",
       "stop_name": "Airport Terminal",
@@ -860,7 +926,7 @@
   [
     "3549-9767756",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "9767756",
       "route_id": "3549",
       "stop_name": "Flag Lane west bound",
@@ -869,53 +935,53 @@
     }
   ],
   [
-    "3549-3053997",
+    "3549-3053458",
     {
-      "trip_id": "SunLen-T9-9",
-      "stop_id": "3053997",
+      "trip_id": "Len-T9",
+      "stop_id": "3053458",
       "route_id": "3549",
-      "stop_name": "opp. Concordia Lutheran",
-      "stop_lat": "46.735637",
-      "stop_lon": "-117.159184"
+      "stop_name": "Outdoor Rec. Center",
+      "stop_lat": "46.737821",
+      "stop_lon": "-117.150861"
     }
   ],
   [
-    "3549-3053998",
+    "3549-3053993",
     {
-      "trip_id": "SunLen-T9-9",
-      "stop_id": "3053998",
+      "trip_id": "Len-T9",
+      "stop_id": "3053993",
       "route_id": "3549",
-      "stop_name": "Rec. Center on Orchard",
-      "stop_lat": "46.736694",
-      "stop_lon": "-117.156641"
+      "stop_name": "Cougar Ridge",
+      "stop_lat": "46.742378",
+      "stop_lon": "-117.152151"
     }
   ],
   [
-    "3549-3053999",
+    "3549-3053994",
     {
-      "trip_id": "SunLen-T9-9",
-      "stop_id": "3053999",
+      "trip_id": "Len-T9",
+      "stop_id": "3053994",
       "route_id": "3549",
-      "stop_name": "Nez Perce Village",
-      "stop_lat": "46.739929",
-      "stop_lon": "-117.156416"
+      "stop_name": "Terre View and Merman",
+      "stop_lat": "46.742988",
+      "stop_lon": "-117.154944"
     }
   ],
   [
-    "3549-3716350",
+    "3549-3052111",
     {
-      "trip_id": "SunLen-T9-9",
-      "stop_id": "3716350",
+      "trip_id": "Len-T9",
+      "stop_id": "3052111",
       "route_id": "3549",
-      "stop_name": "Valley Playfields",
-      "stop_lat": "46.74018",
-      "stop_lon": "-117.158503"
+      "stop_name": "Terrace Apartments",
+      "stop_lat": "46.740671",
+      "stop_lon": "-117.159303"
     }
   ],
   [
     "3549-3053995",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053995",
       "route_id": "3549",
       "stop_name": "Emerald Downs",
@@ -926,7 +992,7 @@
   [
     "3549-3053996",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053996",
       "route_id": "3549",
       "stop_name": "Providence Court",
@@ -937,7 +1003,7 @@
   [
     "3549-3055111",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3055111",
       "route_id": "3549",
       "stop_name": "McDonalds North",
@@ -948,7 +1014,7 @@
   [
     "3549-3052090",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3052090",
       "route_id": "3549",
       "stop_name": "Transfer Station",
@@ -959,7 +1025,7 @@
   [
     "3549-3678509",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3678509",
       "route_id": "3549",
       "stop_name": "Welcome Wayside",
@@ -970,7 +1036,7 @@
   [
     "3549-3056272",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3056272",
       "route_id": "3549",
       "stop_name": "Main and Cedar",
@@ -981,7 +1047,7 @@
   [
     "3549-3056274",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3056274",
       "route_id": "3549",
       "stop_name": "Arbor and Main",
@@ -992,7 +1058,7 @@
   [
     "3549-3056276",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3056276",
       "route_id": "3549",
       "stop_name": "Sunnyside Elementary",
@@ -1003,7 +1069,7 @@
   [
     "3549-3056277",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3056277",
       "route_id": "3549",
       "stop_name": "Fountain and Center",
@@ -1014,7 +1080,7 @@
   [
     "3549-3056278",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3056278",
       "route_id": "3549",
       "stop_name": "Cityview and James",
@@ -1025,7 +1091,7 @@
   [
     "3549-3056279",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3056279",
       "route_id": "3549",
       "stop_name": "Fountain and Crestview",
@@ -1036,7 +1102,7 @@
   [
     "3549-3056281",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3056281",
       "route_id": "3549",
       "stop_name": "Crestview and Grand",
@@ -1047,7 +1113,7 @@
   [
     "3549-3053184",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053184",
       "route_id": "3549",
       "stop_name": "Terrace Estates",
@@ -1058,7 +1124,7 @@
   [
     "3549-3053185",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053185",
       "route_id": "3549",
       "stop_name": "Dairy Queen",
@@ -1069,7 +1135,7 @@
   [
     "3549-10599225",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "10599225",
       "route_id": "3549",
       "stop_name": "opposite Planet Fitness",
@@ -1080,7 +1146,7 @@
   [
     "3549-3053188",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053188",
       "route_id": "3549",
       "stop_name": "WalMart",
@@ -1091,7 +1157,7 @@
   [
     "3549-3053189",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053189",
       "route_id": "3549",
       "stop_name": "opp. Banner Bank",
@@ -1102,7 +1168,7 @@
   [
     "3549-3053190",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053190",
       "route_id": "3549",
       "stop_name": "Pullman Hospital",
@@ -1113,7 +1179,7 @@
   [
     "3549-3053191",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053191",
       "route_id": "3549",
       "stop_name": "Summit Therapy",
@@ -1124,7 +1190,7 @@
   [
     "3549-3053192",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053192",
       "route_id": "3549",
       "stop_name": "Village Centre Cinemas",
@@ -1135,7 +1201,7 @@
   [
     "3549-3053193",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053193",
       "route_id": "3549",
       "stop_name": "opp. Pro Mall",
@@ -1146,7 +1212,7 @@
   [
     "3549-3056934",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3056934",
       "route_id": "3549",
       "stop_name": "Koppel Farm",
@@ -1157,7 +1223,7 @@
   [
     "3549-3055641",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3055641",
       "route_id": "3549",
       "stop_name": "Derby and Dilke",
@@ -1168,7 +1234,7 @@
   [
     "3549-3053202",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053202",
       "route_id": "3549",
       "stop_name": "Dilke and Ridgeview",
@@ -1179,7 +1245,7 @@
   [
     "3549-3053203",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053203",
       "route_id": "3549",
       "stop_name": "South and Side",
@@ -1190,7 +1256,7 @@
   [
     "3549-3053205",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053205",
       "route_id": "3549",
       "stop_name": "South and High",
@@ -1201,7 +1267,7 @@
   [
     "3549-3053206",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053206",
       "route_id": "3549",
       "stop_name": "Rocky Way and Grand",
@@ -1212,7 +1278,7 @@
   [
     "3549-3053207",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053207",
       "route_id": "3549",
       "stop_name": "Jin's Mart",
@@ -1223,10 +1289,10 @@
   [
     "3549-3673888",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3673888",
       "route_id": "3549",
-      "stop_name": "opp. U.S. Bank",
+      "stop_name": "Old City Hall",
       "stop_lat": "46.728817",
       "stop_lon": "-117.179507"
     }
@@ -1234,7 +1300,7 @@
   [
     "3549-3673889",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3673889",
       "route_id": "3549",
       "stop_name": "Stephenson Hall",
@@ -1245,7 +1311,7 @@
   [
     "3549-3053454",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053454",
       "route_id": "3549",
       "stop_name": "Bustad Hall",
@@ -1256,7 +1322,7 @@
   [
     "3549-3053455",
     {
-      "trip_id": "SunLen-T9-9",
+      "trip_id": "Len-T9",
       "stop_id": "3053455",
       "route_id": "3549",
       "stop_name": "Vogel Biosciences",
@@ -1265,559 +1331,9 @@
     }
   ],
   [
-    "3545-9767756",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "9767756",
-      "route_id": "3545",
-      "stop_name": "Flag Lane west bound",
-      "stop_lat": "46.734589",
-      "stop_lon": "-117.160181"
-    }
-  ],
-  [
-    "3545-3053997",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3053997",
-      "route_id": "3545",
-      "stop_name": "opp. Concordia Lutheran",
-      "stop_lat": "46.735637",
-      "stop_lon": "-117.159184"
-    }
-  ],
-  [
-    "3545-3053998",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3053998",
-      "route_id": "3545",
-      "stop_name": "Rec. Center on Orchard",
-      "stop_lat": "46.736694",
-      "stop_lon": "-117.156641"
-    }
-  ],
-  [
-    "3545-3053999",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3053999",
-      "route_id": "3545",
-      "stop_name": "Nez Perce Village",
-      "stop_lat": "46.739929",
-      "stop_lon": "-117.156416"
-    }
-  ],
-  [
-    "3545-3716350",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3716350",
-      "route_id": "3545",
-      "stop_name": "Valley Playfields",
-      "stop_lat": "46.74018",
-      "stop_lon": "-117.158503"
-    }
-  ],
-  [
-    "3545-3875953",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3875953",
-      "route_id": "3545",
-      "stop_name": "opp. Summer Hill",
-      "stop_lat": "46.743817",
-      "stop_lon": "-117.153473"
-    }
-  ],
-  [
-    "3545-3053988",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3053988",
-      "route_id": "3545",
-      "stop_name": "opp. Cougar Crest",
-      "stop_lat": "46.746536",
-      "stop_lon": "-117.151527"
-    }
-  ],
-  [
-    "3545-3053989",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3053989",
-      "route_id": "3545",
-      "stop_name": "Pine Ridge Upper",
-      "stop_lat": "46.747698",
-      "stop_lon": "-117.150857"
-    }
-  ],
-  [
-    "3545-3053990",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3053990",
-      "route_id": "3545",
-      "stop_name": "opp. Birch Hills",
-      "stop_lat": "46.748305",
-      "stop_lon": "-117.147953"
-    }
-  ],
-  [
-    "3545-3053991",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3053991",
-      "route_id": "3545",
-      "stop_name": "Maple Valley",
-      "stop_lat": "46.746291",
-      "stop_lon": "-117.145409"
-    }
-  ],
-  [
-    "3545-3053992",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3053992",
-      "route_id": "3545",
-      "stop_name": "Aspen Village",
-      "stop_lat": "46.74425",
-      "stop_lon": "-117.148155"
-    }
-  ],
-  [
-    "3545-3053993",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3053993",
-      "route_id": "3545",
-      "stop_name": "Cougar Ridge",
-      "stop_lat": "46.742378",
-      "stop_lon": "-117.152151"
-    }
-  ],
-  [
-    "3545-3053994",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3053994",
-      "route_id": "3545",
-      "stop_name": "Terre View and Merman",
-      "stop_lat": "46.742988",
-      "stop_lon": "-117.154944"
-    }
-  ],
-  [
-    "3545-4582124",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "4582124",
-      "route_id": "3545",
-      "stop_name": "Timberline on the Green",
-      "stop_lat": "46.743944",
-      "stop_lon": "-117.15603"
-    }
-  ],
-  [
-    "3545-4582126",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "4582126",
-      "route_id": "3545",
-      "stop_name": "Cougars Closet",
-      "stop_lat": "46.744147",
-      "stop_lon": "-117.157968"
-    }
-  ],
-  [
-    "3545-3059329",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3059329",
-      "route_id": "3545",
-      "stop_name": "WSU Research Park",
-      "stop_lat": "46.743823",
-      "stop_lon": "-117.162738"
-    }
-  ],
-  [
-    "3545-3052113",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052113",
-      "route_id": "3545",
-      "stop_name": "Schweitzer Drive",
-      "stop_lat": "46.746222",
-      "stop_lon": "-117.168289"
-    }
-  ],
-  [
-    "3545-3052114",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052114",
-      "route_id": "3545",
-      "stop_name": "Terre View Bridge",
-      "stop_lat": "46.750044",
-      "stop_lon": "-117.170224"
-    }
-  ],
-  [
-    "3545-3676534",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3676534",
-      "route_id": "3545",
-      "stop_name": "Dillon and Terre View, West bound",
-      "stop_lat": "46.750371",
-      "stop_lon": "-117.174442"
-    }
-  ],
-  [
-    "3545-3676536",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3676536",
-      "route_id": "3545",
-      "stop_name": "Lamont and Larry",
-      "stop_lat": "46.747365",
-      "stop_lon": "-117.176656"
-    }
-  ],
-  [
-    "3545-3055636",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3055636",
-      "route_id": "3545",
-      "stop_name": "Aquatic Center on Larry",
-      "stop_lat": "46.745223",
-      "stop_lon": "-117.180419"
-    }
-  ],
-  [
-    "3545-3054892",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3054892",
-      "route_id": "3545",
-      "stop_name": "Hall and Orion, South bound",
-      "stop_lat": "46.743818",
-      "stop_lon": "-117.179215"
-    }
-  ],
-  [
-    "3545-3054894",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3054894",
-      "route_id": "3545",
-      "stop_name": "State and Timothy, South bound",
-      "stop_lat": "46.741044",
-      "stop_lon": "-117.179014"
-    }
-  ],
-  [
-    "3545-3054895",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3054895",
-      "route_id": "3545",
-      "stop_name": "State and True, South bound",
-      "stop_lat": "46.738926",
-      "stop_lon": "-117.178385"
-    }
-  ],
-  [
-    "3545-3053182",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3053182",
-      "route_id": "3545",
-      "stop_name": "Rosauers",
-      "stop_lat": "46.739765",
-      "stop_lon": "-117.173107"
-    }
-  ],
-  [
-    "3545-3052119",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052119",
-      "route_id": "3545",
-      "stop_name": "Taco Bell",
-      "stop_lat": "46.738948",
-      "stop_lon": "-117.170747"
-    }
-  ],
-  [
-    "3545-8028742",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "8028742",
-      "route_id": "3545",
-      "stop_name": "Pullman Church of Christ",
-      "stop_lat": "46.73739",
-      "stop_lon": "-117.166097"
-    }
-  ],
-  [
-    "3545-3052120",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052120",
-      "route_id": "3545",
-      "stop_name": "Harvey/Duncan",
-      "stop_lat": "46.736405",
-      "stop_lon": "-117.163101"
-    }
-  ],
-  [
-    "3545-3052121",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052121",
-      "route_id": "3545",
-      "stop_name": "Streit Perham",
-      "stop_lat": "46.735681",
-      "stop_lon": "-117.159996"
-    }
-  ],
-  [
-    "3545-9766759",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "9766759",
-      "route_id": "3545",
-      "stop_name": "Flag Lane east bound",
-      "stop_lat": "46.734166",
-      "stop_lon": "-117.159285"
-    }
-  ],
-  [
-    "3545-3052123",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052123",
-      "route_id": "3545",
-      "stop_name": "Gesa Field",
-      "stop_lat": "46.731277",
-      "stop_lon": "-117.159058"
-    }
-  ],
-  [
-    "3545-3052124",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052124",
-      "route_id": "3545",
-      "stop_name": "Troy Lane",
-      "stop_lat": "46.728639",
-      "stop_lon": "-117.162092"
-    }
-  ],
-  [
-    "3545-3052778",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052778",
-      "route_id": "3545",
-      "stop_name": "Bishop and Latah",
-      "stop_lat": "46.722518",
-      "stop_lon": "-117.16501"
-    }
-  ],
-  [
-    "3545-3052779",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052779",
-      "route_id": "3545",
-      "stop_name": "opp. Birch and Barley",
-      "stop_lat": "46.720004",
-      "stop_lon": "-117.164115"
-    }
-  ],
-  [
-    "3545-3052780",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052780",
-      "route_id": "3545",
-      "stop_name": "Pro Mall",
-      "stop_lat": "46.717765",
-      "stop_lon": "-117.164883"
-    }
-  ],
-  [
-    "3545-3052781",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052781",
-      "route_id": "3545",
-      "stop_name": "Crimson and Gray Bookstore",
-      "stop_lat": "46.715143",
-      "stop_lon": "-117.165188"
-    }
-  ],
-  [
-    "3545-3052783",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052783",
-      "route_id": "3545",
-      "stop_name": "Bishop and Footloose",
-      "stop_lat": "46.713339",
-      "stop_lon": "-117.168174"
-    }
-  ],
-  [
-    "3545-3052784",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052784",
-      "route_id": "3545",
-      "stop_name": "Zeppoz",
-      "stop_lat": "46.713759",
-      "stop_lon": "-117.171854"
-    }
-  ],
-  [
-    "3545-3052785",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052785",
-      "route_id": "3545",
-      "stop_name": "Banner Bank",
-      "stop_lat": "46.714301",
-      "stop_lon": "-117.174935"
-    }
-  ],
-  [
-    "3545-3052786",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052786",
-      "route_id": "3545",
-      "stop_name": "Safeway",
-      "stop_lat": "46.71498",
-      "stop_lon": "-117.178598"
-    }
-  ],
-  [
-    "3545-6519598",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "6519598",
-      "route_id": "3545",
-      "stop_name": "Grocery Outlet",
-      "stop_lat": "46.717095",
-      "stop_lon": "-117.182829"
-    }
-  ],
-  [
-    "3545-3055633",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3055633",
-      "route_id": "3545",
-      "stop_name": "Grand and Crestview",
-      "stop_lat": "46.720172",
-      "stop_lon": "-117.184106"
-    }
-  ],
-  [
-    "3545-8600155",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "8600155",
-      "route_id": "3545",
-      "stop_name": "Phikun's Thai Cuisine",
-      "stop_lat": "46.721493",
-      "stop_lon": "-117.18466"
-    }
-  ],
-  [
-    "3545-3053207",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3053207",
-      "route_id": "3545",
-      "stop_name": "Jin's Mart",
-      "stop_lat": "46.726277",
-      "stop_lon": "-117.185016"
-    }
-  ],
-  [
-    "3545-3052276",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052276",
-      "route_id": "3545",
-      "stop_name": "Porch Light Pizza",
-      "stop_lat": "46.730404",
-      "stop_lon": "-117.179459"
-    }
-  ],
-  [
-    "3545-3052277",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052277",
-      "route_id": "3545",
-      "stop_name": "Whitman and Maple",
-      "stop_lat": "46.731303",
-      "stop_lon": "-117.17727"
-    }
-  ],
-  [
-    "3545-3052278",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052278",
-      "route_id": "3545",
-      "stop_name": "Maiden and Spaulding, North bound",
-      "stop_lat": "46.732039",
-      "stop_lon": "-117.175077"
-    }
-  ],
-  [
-    "3545-3052279",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052279",
-      "route_id": "3545",
-      "stop_name": "Campus and Opal",
-      "stop_lat": "46.733524",
-      "stop_lon": "-117.172504"
-    }
-  ],
-  [
-    "3545-3052128",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052128",
-      "route_id": "3545",
-      "stop_name": "The Chinook",
-      "stop_lat": "46.732507",
-      "stop_lon": "-117.165812"
-    }
-  ],
-  [
-    "3545-3052281",
-    {
-      "trip_id": "SunWheat-T9-9",
-      "stop_id": "3052281",
-      "route_id": "3545",
-      "stop_name": "The Gyms",
-      "stop_lat": "46.73348",
-      "stop_lon": "-117.162143"
-    }
-  ],
-  [
     "3138-3052090",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3052090",
       "route_id": "3138",
       "stop_name": "Transfer Station",
@@ -1828,7 +1344,7 @@
   [
     "3138-3052091",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3052091",
       "route_id": "3138",
       "stop_name": "State and Harrison",
@@ -1839,7 +1355,7 @@
   [
     "3138-3053181",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3053181",
       "route_id": "3138",
       "stop_name": "State and True, North bound",
@@ -1850,7 +1366,7 @@
   [
     "3138-3053182",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3053182",
       "route_id": "3138",
       "stop_name": "Rosauers",
@@ -1861,7 +1377,7 @@
   [
     "3138-3052119",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3052119",
       "route_id": "3138",
       "stop_name": "Taco Bell",
@@ -1872,7 +1388,7 @@
   [
     "3138-8028742",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "8028742",
       "route_id": "3138",
       "stop_name": "Pullman Church of Christ",
@@ -1883,7 +1399,7 @@
   [
     "3138-3052120",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3052120",
       "route_id": "3138",
       "stop_name": "Harvey/Duncan",
@@ -1894,7 +1410,7 @@
   [
     "3138-3052121",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3052121",
       "route_id": "3138",
       "stop_name": "Streit Perham",
@@ -1905,7 +1421,7 @@
   [
     "3138-9766759",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "9766759",
       "route_id": "3138",
       "stop_name": "Flag Lane east bound",
@@ -1916,7 +1432,7 @@
   [
     "3138-3052123",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3052123",
       "route_id": "3138",
       "stop_name": "Gesa Field",
@@ -1927,7 +1443,7 @@
   [
     "3138-3052124",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3052124",
       "route_id": "3138",
       "stop_name": "Troy Lane",
@@ -1938,7 +1454,7 @@
   [
     "3138-3680030",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3680030",
       "route_id": "3138",
       "stop_name": "WSU Visitors Center - south bound",
@@ -1949,7 +1465,7 @@
   [
     "3138-3052282",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3052282",
       "route_id": "3138",
       "stop_name": "Pine Street Mall - south bound",
@@ -1960,7 +1476,7 @@
   [
     "3138-3053183",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3053183",
       "route_id": "3138",
       "stop_name": "Grand and Center",
@@ -1971,7 +1487,7 @@
   [
     "3138-3053184",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3053184",
       "route_id": "3138",
       "stop_name": "Terrace Estates",
@@ -1982,7 +1498,7 @@
   [
     "3138-3053185",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3053185",
       "route_id": "3138",
       "stop_name": "Dairy Queen",
@@ -1993,7 +1509,7 @@
   [
     "3138-10599225",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "10599225",
       "route_id": "3138",
       "stop_name": "opposite Planet Fitness",
@@ -2004,7 +1520,7 @@
   [
     "3138-3053188",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3053188",
       "route_id": "3138",
       "stop_name": "WalMart",
@@ -2015,7 +1531,7 @@
   [
     "3138-3053189",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3053189",
       "route_id": "3138",
       "stop_name": "opp. Banner Bank",
@@ -2026,7 +1542,7 @@
   [
     "3138-3053190",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3053190",
       "route_id": "3138",
       "stop_name": "Pullman Hospital",
@@ -2037,7 +1553,7 @@
   [
     "3138-3053191",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3053191",
       "route_id": "3138",
       "stop_name": "Summit Therapy",
@@ -2048,7 +1564,7 @@
   [
     "3138-3053192",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3053192",
       "route_id": "3138",
       "stop_name": "Village Centre Cinemas",
@@ -2059,7 +1575,7 @@
   [
     "3138-3053193",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3053193",
       "route_id": "3138",
       "stop_name": "opp. Pro Mall",
@@ -2070,7 +1586,7 @@
   [
     "3138-3053194",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3053194",
       "route_id": "3138",
       "stop_name": "Birch and Barley",
@@ -2081,7 +1597,7 @@
   [
     "3138-3053196",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3053196",
       "route_id": "3138",
       "stop_name": "Main and Stadium Way",
@@ -2092,7 +1608,7 @@
   [
     "3138-8088759",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "8088759",
       "route_id": "3138",
       "stop_name": "WSU Visitor Center - north bound",
@@ -2103,7 +1619,7 @@
   [
     "3138-3053197",
     {
-      "trip_id": "Loop-T9-7",
+      "trip_id": "Loop-T9",
       "stop_id": "3053197",
       "route_id": "3138",
       "stop_name": "Pine Street Mall - north bound",
@@ -2114,7 +1630,7 @@
   [
     "3544-3052090",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3052090",
       "route_id": "3544",
       "stop_name": "Transfer Station",
@@ -2125,7 +1641,7 @@
   [
     "3544-3678509",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3678509",
       "route_id": "3544",
       "stop_name": "Welcome Wayside",
@@ -2136,7 +1652,7 @@
   [
     "3544-3052770",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3052770",
       "route_id": "3544",
       "stop_name": "Golden Hills",
@@ -2147,7 +1663,7 @@
   [
     "3544-3052771",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3052771",
       "route_id": "3544",
       "stop_name": "Skyline Estates",
@@ -2158,7 +1674,7 @@
   [
     "3544-3052772",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3052772",
       "route_id": "3544",
       "stop_name": "Cory Lane",
@@ -2169,7 +1685,7 @@
   [
     "3544-3052773",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3052773",
       "route_id": "3544",
       "stop_name": "Parkwest",
@@ -2180,7 +1696,7 @@
   [
     "3544-3052774",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3052774",
       "route_id": "3544",
       "stop_name": "Big Sky Court",
@@ -2191,7 +1707,7 @@
   [
     "3544-3673887",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3673887",
       "route_id": "3544",
       "stop_name": "Whispering Hills Turnaround",
@@ -2202,7 +1718,7 @@
   [
     "3544-3052775",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3052775",
       "route_id": "3544",
       "stop_name": "Whispering Hills",
@@ -2213,7 +1729,7 @@
   [
     "3544-3052776",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3052776",
       "route_id": "3544",
       "stop_name": "Wawawai and Marcia",
@@ -2224,7 +1740,7 @@
   [
     "3544-3052777",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3052777",
       "route_id": "3544",
       "stop_name": "Sunnyside Park",
@@ -2235,7 +1751,7 @@
   [
     "3544-3056272",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3056272",
       "route_id": "3544",
       "stop_name": "Main and Cedar",
@@ -2246,7 +1762,7 @@
   [
     "3544-3056274",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3056274",
       "route_id": "3544",
       "stop_name": "Arbor and Main",
@@ -2257,7 +1773,7 @@
   [
     "3544-3056276",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3056276",
       "route_id": "3544",
       "stop_name": "Sunnyside Elementary",
@@ -2268,7 +1784,7 @@
   [
     "3544-3056277",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3056277",
       "route_id": "3544",
       "stop_name": "Fountain and Center",
@@ -2279,7 +1795,7 @@
   [
     "3544-3056278",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3056278",
       "route_id": "3544",
       "stop_name": "Cityview and James",
@@ -2290,7 +1806,7 @@
   [
     "3544-3056279",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3056279",
       "route_id": "3544",
       "stop_name": "Fountain and Crestview",
@@ -2301,7 +1817,7 @@
   [
     "3544-3056281",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3056281",
       "route_id": "3544",
       "stop_name": "Crestview and Grand",
@@ -2312,7 +1828,7 @@
   [
     "3544-8600155",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "8600155",
       "route_id": "3544",
       "stop_name": "Phikun's Thai Cuisine",
@@ -2323,7 +1839,7 @@
   [
     "3544-3053207",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3053207",
       "route_id": "3544",
       "stop_name": "Jin's Mart",
@@ -2334,10 +1850,10 @@
   [
     "3544-3673888",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3673888",
       "route_id": "3544",
-      "stop_name": "opp. U.S. Bank",
+      "stop_name": "Old City Hall",
       "stop_lat": "46.728817",
       "stop_lon": "-117.179507"
     }
@@ -2345,7 +1861,7 @@
   [
     "3544-3673889",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3673889",
       "route_id": "3544",
       "stop_name": "Stephenson Hall",
@@ -2356,7 +1872,7 @@
   [
     "3544-3053454",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3053454",
       "route_id": "3544",
       "stop_name": "Bustad Hall",
@@ -2367,7 +1883,7 @@
   [
     "3544-3053455",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3053455",
       "route_id": "3544",
       "stop_name": "Vogel Biosciences",
@@ -2378,7 +1894,7 @@
   [
     "3544-9767756",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "9767756",
       "route_id": "3544",
       "stop_name": "Flag Lane west bound",
@@ -2389,7 +1905,7 @@
   [
     "3544-5849896",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "5849896",
       "route_id": "3544",
       "stop_name": "Northside Commons",
@@ -2400,7 +1916,7 @@
   [
     "3544-3875951",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3875951",
       "route_id": "3544",
       "stop_name": "Adams Mall",
@@ -2411,7 +1927,7 @@
   [
     "3544-3052130",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3052130",
       "route_id": "3544",
       "stop_name": "Maiden and Spaulding, south bound",
@@ -2422,7 +1938,7 @@
   [
     "3544-3052132",
     {
-      "trip_id": "Par-T9-7",
+      "trip_id": "Par-T9",
       "stop_id": "3052132",
       "route_id": "3544",
       "stop_name": "Neill Library",
@@ -2431,130 +1947,9 @@
     }
   ],
   [
-    "3137-3052786",
-    {
-      "trip_id": "Silver-T9-7",
-      "stop_id": "3052786",
-      "route_id": "3137",
-      "stop_name": "Safeway",
-      "stop_lat": "46.71498",
-      "stop_lon": "-117.178598"
-    }
-  ],
-  [
-    "3137-3052787",
-    {
-      "trip_id": "Silver-T9-7",
-      "stop_id": "3052787",
-      "route_id": "3137",
-      "stop_name": "Grocery Outlet",
-      "stop_lat": "46.717095",
-      "stop_lon": "-117.182829"
-    }
-  ],
-  [
-    "3137-3055633",
-    {
-      "trip_id": "Silver-T9-7",
-      "stop_id": "3055633",
-      "route_id": "3137",
-      "stop_name": "Grand and Crestview",
-      "stop_lat": "46.720172",
-      "stop_lon": "-117.184106"
-    }
-  ],
-  [
-    "3137-6466497",
-    {
-      "trip_id": "Silver-T9-7",
-      "stop_id": "6466497",
-      "route_id": "3137",
-      "stop_name": "Pullman City Hall",
-      "stop_lat": "46.71935",
-      "stop_lon": "-117.181919"
-    }
-  ],
-  [
-    "3137-3672225",
-    {
-      "trip_id": "Silver-T9-7",
-      "stop_id": "3672225",
-      "route_id": "3137",
-      "stop_name": "Crestview and Spring",
-      "stop_lat": "46.719561",
-      "stop_lon": "-117.177731"
-    }
-  ],
-  [
-    "3137-3053200",
-    {
-      "trip_id": "Silver-T9-7",
-      "stop_id": "3053200",
-      "route_id": "3137",
-      "stop_name": "Spring and Derby",
-      "stop_lat": "46.722961",
-      "stop_lon": "-117.178373"
-    }
-  ],
-  [
-    "3137-3053202",
-    {
-      "trip_id": "Silver-T9-7",
-      "stop_id": "3053202",
-      "route_id": "3137",
-      "stop_name": "Dilke and Ridgeview",
-      "stop_lat": "46.724773",
-      "stop_lon": "-117.17468"
-    }
-  ],
-  [
-    "3137-3053203",
-    {
-      "trip_id": "Silver-T9-7",
-      "stop_id": "3053203",
-      "route_id": "3137",
-      "stop_name": "South and Side",
-      "stop_lat": "46.726109",
-      "stop_lon": "-117.175932"
-    }
-  ],
-  [
-    "3137-3053205",
-    {
-      "trip_id": "Silver-T9-7",
-      "stop_id": "3053205",
-      "route_id": "3137",
-      "stop_name": "South and High",
-      "stop_lat": "46.726362",
-      "stop_lon": "-117.181689"
-    }
-  ],
-  [
-    "3137-3053206",
-    {
-      "trip_id": "Silver-T9-7",
-      "stop_id": "3053206",
-      "route_id": "3137",
-      "stop_name": "Rocky Way and Grand",
-      "stop_lat": "46.724657",
-      "stop_lon": "-117.185311"
-    }
-  ],
-  [
-    "3137-3053207",
-    {
-      "trip_id": "Silver-T9-7",
-      "stop_id": "3053207",
-      "route_id": "3137",
-      "stop_name": "Jin's Mart",
-      "stop_lat": "46.726277",
-      "stop_lon": "-117.185016"
-    }
-  ],
-  [
     "3137-3052090",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3052090",
       "route_id": "3137",
       "stop_name": "Transfer Station",
@@ -2565,7 +1960,7 @@
   [
     "3137-3052276",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3052276",
       "route_id": "3137",
       "stop_name": "Porch Light Pizza",
@@ -2576,7 +1971,7 @@
   [
     "3137-3052277",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3052277",
       "route_id": "3137",
       "stop_name": "Whitman and Maple",
@@ -2587,7 +1982,7 @@
   [
     "3137-3052278",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3052278",
       "route_id": "3137",
       "stop_name": "Maiden and Spaulding, North bound",
@@ -2598,7 +1993,7 @@
   [
     "3137-3052279",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3052279",
       "route_id": "3137",
       "stop_name": "Campus and Opal",
@@ -2609,7 +2004,7 @@
   [
     "3137-3052128",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3052128",
       "route_id": "3137",
       "stop_name": "The Chinook",
@@ -2620,7 +2015,7 @@
   [
     "3137-3052281",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3052281",
       "route_id": "3137",
       "stop_name": "The Gyms",
@@ -2631,7 +2026,7 @@
   [
     "3137-9766759",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "9766759",
       "route_id": "3137",
       "stop_name": "Flag Lane east bound",
@@ -2642,7 +2037,7 @@
   [
     "3137-3052123",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3052123",
       "route_id": "3137",
       "stop_name": "Gesa Field",
@@ -2653,7 +2048,7 @@
   [
     "3137-3052124",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3052124",
       "route_id": "3137",
       "stop_name": "Troy Lane",
@@ -2664,7 +2059,7 @@
   [
     "3137-3052778",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3052778",
       "route_id": "3137",
       "stop_name": "Bishop and Latah",
@@ -2675,7 +2070,7 @@
   [
     "3137-3052779",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3052779",
       "route_id": "3137",
       "stop_name": "opp. Birch and Barley",
@@ -2686,7 +2081,7 @@
   [
     "3137-3052780",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3052780",
       "route_id": "3137",
       "stop_name": "Pro Mall",
@@ -2697,7 +2092,7 @@
   [
     "3137-3052781",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3052781",
       "route_id": "3137",
       "stop_name": "Crimson and Gray Bookstore",
@@ -2708,7 +2103,7 @@
   [
     "3137-3052783",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3052783",
       "route_id": "3137",
       "stop_name": "Bishop and Footloose",
@@ -2719,7 +2114,7 @@
   [
     "3137-3059722",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3059722",
       "route_id": "3137",
       "stop_name": "Palouse Medical",
@@ -2730,12 +2125,672 @@
   [
     "3137-3053188",
     {
-      "trip_id": "Silver-T9-7",
+      "trip_id": "Silver-T9",
       "stop_id": "3053188",
       "route_id": "3137",
       "stop_name": "WalMart",
       "stop_lat": "46.712487",
       "stop_lon": "-117.177148"
+    }
+  ],
+  [
+    "3137-3052786",
+    {
+      "trip_id": "Silver-T9",
+      "stop_id": "3052786",
+      "route_id": "3137",
+      "stop_name": "Safeway",
+      "stop_lat": "46.71498",
+      "stop_lon": "-117.178598"
+    }
+  ],
+  [
+    "3137-3052787",
+    {
+      "trip_id": "Silver-T9",
+      "stop_id": "3052787",
+      "route_id": "3137",
+      "stop_name": "Grocery Outlet",
+      "stop_lat": "46.717095",
+      "stop_lon": "-117.182829"
+    }
+  ],
+  [
+    "3137-3055633",
+    {
+      "trip_id": "Silver-T9",
+      "stop_id": "3055633",
+      "route_id": "3137",
+      "stop_name": "Grand and Crestview",
+      "stop_lat": "46.720172",
+      "stop_lon": "-117.184106"
+    }
+  ],
+  [
+    "3137-6466497",
+    {
+      "trip_id": "Silver-T9",
+      "stop_id": "6466497",
+      "route_id": "3137",
+      "stop_name": "Pullman City Hall",
+      "stop_lat": "46.71935",
+      "stop_lon": "-117.181919"
+    }
+  ],
+  [
+    "3137-3672225",
+    {
+      "trip_id": "Silver-T9",
+      "stop_id": "3672225",
+      "route_id": "3137",
+      "stop_name": "Crestview and Spring",
+      "stop_lat": "46.719561",
+      "stop_lon": "-117.177731"
+    }
+  ],
+  [
+    "3137-3053200",
+    {
+      "trip_id": "Silver-T9",
+      "stop_id": "3053200",
+      "route_id": "3137",
+      "stop_name": "Spring and Derby",
+      "stop_lat": "46.722961",
+      "stop_lon": "-117.178373"
+    }
+  ],
+  [
+    "3137-3053202",
+    {
+      "trip_id": "Silver-T9",
+      "stop_id": "3053202",
+      "route_id": "3137",
+      "stop_name": "Dilke and Ridgeview",
+      "stop_lat": "46.724773",
+      "stop_lon": "-117.17468"
+    }
+  ],
+  [
+    "3137-3053203",
+    {
+      "trip_id": "Silver-T9",
+      "stop_id": "3053203",
+      "route_id": "3137",
+      "stop_name": "South and Side",
+      "stop_lat": "46.726109",
+      "stop_lon": "-117.175932"
+    }
+  ],
+  [
+    "3137-3053205",
+    {
+      "trip_id": "Silver-T9",
+      "stop_id": "3053205",
+      "route_id": "3137",
+      "stop_name": "South and High",
+      "stop_lat": "46.726362",
+      "stop_lon": "-117.181689"
+    }
+  ],
+  [
+    "3137-3053206",
+    {
+      "trip_id": "Silver-T9",
+      "stop_id": "3053206",
+      "route_id": "3137",
+      "stop_name": "Rocky Way and Grand",
+      "stop_lat": "46.724657",
+      "stop_lon": "-117.185311"
+    }
+  ],
+  [
+    "3137-3053207",
+    {
+      "trip_id": "Silver-T9",
+      "stop_id": "3053207",
+      "route_id": "3137",
+      "stop_name": "Jin's Mart",
+      "stop_lat": "46.726277",
+      "stop_lon": "-117.185016"
+    }
+  ],
+  [
+    "3545-9767756",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "9767756",
+      "route_id": "3545",
+      "stop_name": "Flag Lane west bound",
+      "stop_lat": "46.734589",
+      "stop_lon": "-117.160181"
+    }
+  ],
+  [
+    "3545-3053458",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3053458",
+      "route_id": "3545",
+      "stop_name": "Outdoor Rec. Center",
+      "stop_lat": "46.737821",
+      "stop_lon": "-117.150861"
+    }
+  ],
+  [
+    "3545-10965130",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "10965130",
+      "route_id": "3545",
+      "stop_name": "Cougar Ridge north bound",
+      "stop_lat": "46.742403",
+      "stop_lon": "-117.152129"
+    }
+  ],
+  [
+    "3545-10965155",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "10965155",
+      "route_id": "3545",
+      "stop_name": "Terre View & Merman north bound",
+      "stop_lat": "46.743011",
+      "stop_lon": "-117.15489"
+    }
+  ],
+  [
+    "3545-3875953",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3875953",
+      "route_id": "3545",
+      "stop_name": "opp. Summer Hill",
+      "stop_lat": "46.743817",
+      "stop_lon": "-117.153473"
+    }
+  ],
+  [
+    "3545-3053988",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3053988",
+      "route_id": "3545",
+      "stop_name": "opp. Cougar Crest",
+      "stop_lat": "46.746536",
+      "stop_lon": "-117.151527"
+    }
+  ],
+  [
+    "3545-3053989",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3053989",
+      "route_id": "3545",
+      "stop_name": "Pine Ridge Upper",
+      "stop_lat": "46.747698",
+      "stop_lon": "-117.150857"
+    }
+  ],
+  [
+    "3545-3053990",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3053990",
+      "route_id": "3545",
+      "stop_name": "opp. Birch Hills",
+      "stop_lat": "46.748305",
+      "stop_lon": "-117.147953"
+    }
+  ],
+  [
+    "3545-3053991",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3053991",
+      "route_id": "3545",
+      "stop_name": "Maple Valley",
+      "stop_lat": "46.746291",
+      "stop_lon": "-117.145409"
+    }
+  ],
+  [
+    "3545-3053992",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3053992",
+      "route_id": "3545",
+      "stop_name": "Aspen Village",
+      "stop_lat": "46.74425",
+      "stop_lon": "-117.148155"
+    }
+  ],
+  [
+    "3545-3053993",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3053993",
+      "route_id": "3545",
+      "stop_name": "Cougar Ridge",
+      "stop_lat": "46.742378",
+      "stop_lon": "-117.152151"
+    }
+  ],
+  [
+    "3545-3053994",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3053994",
+      "route_id": "3545",
+      "stop_name": "Terre View and Merman",
+      "stop_lat": "46.742988",
+      "stop_lon": "-117.154944"
+    }
+  ],
+  [
+    "3545-4582124",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "4582124",
+      "route_id": "3545",
+      "stop_name": "Timberline on the Green",
+      "stop_lat": "46.743944",
+      "stop_lon": "-117.15603"
+    }
+  ],
+  [
+    "3545-4582126",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "4582126",
+      "route_id": "3545",
+      "stop_name": "Cougars Closet",
+      "stop_lat": "46.744147",
+      "stop_lon": "-117.157968"
+    }
+  ],
+  [
+    "3545-3059329",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3059329",
+      "route_id": "3545",
+      "stop_name": "WSU Research Park",
+      "stop_lat": "46.743823",
+      "stop_lon": "-117.162738"
+    }
+  ],
+  [
+    "3545-3052113",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052113",
+      "route_id": "3545",
+      "stop_name": "Schweitzer Drive",
+      "stop_lat": "46.746222",
+      "stop_lon": "-117.168289"
+    }
+  ],
+  [
+    "3545-3052114",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052114",
+      "route_id": "3545",
+      "stop_name": "Terre View Bridge",
+      "stop_lat": "46.750044",
+      "stop_lon": "-117.170224"
+    }
+  ],
+  [
+    "3545-3676534",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3676534",
+      "route_id": "3545",
+      "stop_name": "Dillon and Terre View, West bound",
+      "stop_lat": "46.750371",
+      "stop_lon": "-117.174442"
+    }
+  ],
+  [
+    "3545-3676536",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3676536",
+      "route_id": "3545",
+      "stop_name": "Lamont and Larry",
+      "stop_lat": "46.747365",
+      "stop_lon": "-117.176656"
+    }
+  ],
+  [
+    "3545-3055636",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3055636",
+      "route_id": "3545",
+      "stop_name": "Aquatic Center on Larry",
+      "stop_lat": "46.745223",
+      "stop_lon": "-117.180419"
+    }
+  ],
+  [
+    "3545-3054892",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3054892",
+      "route_id": "3545",
+      "stop_name": "Hall and Orion, South bound",
+      "stop_lat": "46.743818",
+      "stop_lon": "-117.179215"
+    }
+  ],
+  [
+    "3545-3054894",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3054894",
+      "route_id": "3545",
+      "stop_name": "State and Timothy, South bound",
+      "stop_lat": "46.741044",
+      "stop_lon": "-117.179014"
+    }
+  ],
+  [
+    "3545-3054895",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3054895",
+      "route_id": "3545",
+      "stop_name": "State and True, South bound",
+      "stop_lat": "46.738926",
+      "stop_lon": "-117.178385"
+    }
+  ],
+  [
+    "3545-3053182",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3053182",
+      "route_id": "3545",
+      "stop_name": "Rosauers",
+      "stop_lat": "46.739765",
+      "stop_lon": "-117.173107"
+    }
+  ],
+  [
+    "3545-3052119",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052119",
+      "route_id": "3545",
+      "stop_name": "Taco Bell",
+      "stop_lat": "46.738948",
+      "stop_lon": "-117.170747"
+    }
+  ],
+  [
+    "3545-8028742",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "8028742",
+      "route_id": "3545",
+      "stop_name": "Pullman Church of Christ",
+      "stop_lat": "46.73739",
+      "stop_lon": "-117.166097"
+    }
+  ],
+  [
+    "3545-3052120",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052120",
+      "route_id": "3545",
+      "stop_name": "Harvey/Duncan",
+      "stop_lat": "46.736405",
+      "stop_lon": "-117.163101"
+    }
+  ],
+  [
+    "3545-3052121",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052121",
+      "route_id": "3545",
+      "stop_name": "Streit Perham",
+      "stop_lat": "46.735681",
+      "stop_lon": "-117.159996"
+    }
+  ],
+  [
+    "3545-9766759",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "9766759",
+      "route_id": "3545",
+      "stop_name": "Flag Lane east bound",
+      "stop_lat": "46.734166",
+      "stop_lon": "-117.159285"
+    }
+  ],
+  [
+    "3545-3052123",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052123",
+      "route_id": "3545",
+      "stop_name": "Gesa Field",
+      "stop_lat": "46.731277",
+      "stop_lon": "-117.159058"
+    }
+  ],
+  [
+    "3545-3052124",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052124",
+      "route_id": "3545",
+      "stop_name": "Troy Lane",
+      "stop_lat": "46.728639",
+      "stop_lon": "-117.162092"
+    }
+  ],
+  [
+    "3545-3052778",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052778",
+      "route_id": "3545",
+      "stop_name": "Bishop and Latah",
+      "stop_lat": "46.722518",
+      "stop_lon": "-117.16501"
+    }
+  ],
+  [
+    "3545-3052779",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052779",
+      "route_id": "3545",
+      "stop_name": "opp. Birch and Barley",
+      "stop_lat": "46.720004",
+      "stop_lon": "-117.164115"
+    }
+  ],
+  [
+    "3545-3052780",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052780",
+      "route_id": "3545",
+      "stop_name": "Pro Mall",
+      "stop_lat": "46.717765",
+      "stop_lon": "-117.164883"
+    }
+  ],
+  [
+    "3545-3052781",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052781",
+      "route_id": "3545",
+      "stop_name": "Crimson and Gray Bookstore",
+      "stop_lat": "46.715143",
+      "stop_lon": "-117.165188"
+    }
+  ],
+  [
+    "3545-3052783",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052783",
+      "route_id": "3545",
+      "stop_name": "Bishop and Footloose",
+      "stop_lat": "46.713339",
+      "stop_lon": "-117.168174"
+    }
+  ],
+  [
+    "3545-3052784",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052784",
+      "route_id": "3545",
+      "stop_name": "Zeppoz",
+      "stop_lat": "46.713759",
+      "stop_lon": "-117.171854"
+    }
+  ],
+  [
+    "3545-3052785",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052785",
+      "route_id": "3545",
+      "stop_name": "Banner Bank",
+      "stop_lat": "46.714301",
+      "stop_lon": "-117.174935"
+    }
+  ],
+  [
+    "3545-3052786",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052786",
+      "route_id": "3545",
+      "stop_name": "Safeway",
+      "stop_lat": "46.71498",
+      "stop_lon": "-117.178598"
+    }
+  ],
+  [
+    "3545-6519598",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "6519598",
+      "route_id": "3545",
+      "stop_name": "Grocery Outlet",
+      "stop_lat": "46.717095",
+      "stop_lon": "-117.182829"
+    }
+  ],
+  [
+    "3545-3055633",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3055633",
+      "route_id": "3545",
+      "stop_name": "Grand and Crestview",
+      "stop_lat": "46.720172",
+      "stop_lon": "-117.184106"
+    }
+  ],
+  [
+    "3545-8600155",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "8600155",
+      "route_id": "3545",
+      "stop_name": "Phikun's Thai Cuisine",
+      "stop_lat": "46.721493",
+      "stop_lon": "-117.18466"
+    }
+  ],
+  [
+    "3545-3053207",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3053207",
+      "route_id": "3545",
+      "stop_name": "Jin's Mart",
+      "stop_lat": "46.726277",
+      "stop_lon": "-117.185016"
+    }
+  ],
+  [
+    "3545-3052276",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052276",
+      "route_id": "3545",
+      "stop_name": "Porch Light Pizza",
+      "stop_lat": "46.730404",
+      "stop_lon": "-117.179459"
+    }
+  ],
+  [
+    "3545-3052277",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052277",
+      "route_id": "3545",
+      "stop_name": "Whitman and Maple",
+      "stop_lat": "46.731303",
+      "stop_lon": "-117.17727"
+    }
+  ],
+  [
+    "3545-3052278",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052278",
+      "route_id": "3545",
+      "stop_name": "Maiden and Spaulding, North bound",
+      "stop_lat": "46.732039",
+      "stop_lon": "-117.175077"
+    }
+  ],
+  [
+    "3545-3052279",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052279",
+      "route_id": "3545",
+      "stop_name": "Campus and Opal",
+      "stop_lat": "46.733524",
+      "stop_lon": "-117.172504"
+    }
+  ],
+  [
+    "3545-3052128",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052128",
+      "route_id": "3545",
+      "stop_name": "The Chinook",
+      "stop_lat": "46.732507",
+      "stop_lon": "-117.165812"
+    }
+  ],
+  [
+    "3545-3052281",
+    {
+      "trip_id": "Wheat-T9",
+      "stop_id": "3052281",
+      "route_id": "3545",
+      "stop_name": "The Gyms",
+      "stop_lat": "46.73348",
+      "stop_lon": "-117.162143"
     }
   ]
 ]
