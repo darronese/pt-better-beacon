@@ -44,7 +44,7 @@ export async function rawBusSocket() {
       } catch (err) {
         console.error("Error fetching or emitting bus data:", err);
       }
-    }, 5000);
+    }, 1000);
     socket.on("disconnect", () => {
       console.log("Client disconnected!");
       clearInterval(interval);

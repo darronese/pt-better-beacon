@@ -69,10 +69,8 @@ export async function calculateAllEta(busPositions) {
       };
     }).sort((a, b) => a.etaSec - b.etaSec);
 
-    /* debug step: check next 3 eta
     console.log(`Bus ${bus.id} (trip ${bus.tripId}) next 3 ETAs:`);
     console.table(etas.slice(0, 3), ["stopId", "name", "distance", "eta"]);
-    */
 
     return {
       busId: bus.id,
