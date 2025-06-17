@@ -28,20 +28,19 @@ export async function rawBusSocket() {
         });
 
         const mappedData = busPositions.entity
-          .filter((bus) => bus.vehicle?.position != null)
-          .map((bus) => ({
-            id: bus.vehicle.vehicle.id,
-            tripId: bus.vehicle.trip ? bus.vehicle.trip.tripId : null,
-            timestamp: Date.now(),
-            position: {
-              latitude: bus.vehicle.position.latitude,
-              longitude: bus.vehicle.position.longitude,
-              speed: bus.vehicle.position.speed,
-              bearing: bus.vehicle.position.bearing,
-            },
-          }));
-
-        socket.emit("busUpdate", mappedData);
+        .filter((bus) => bus.vehicle?.position != null)
+        .map((bus) => ({
+          id: bus.vehicle.vehicle.id,
+          tripId: bus.vehicle.trip ? bus.vehicle.trip.tripId : null,
+          timestamp: Date.now(),
+          position: {
+            latitude: bus.vehicle.position.latitude,
+            longitude: bus.vehicle.position.longitude,
+            speed: bus.vehicle.position.speed,
+            bearing: bus.vehicle.position.bearing,
+          },
+        }));
+       socket.emit("busUpdate", mappedData);
       } catch (err) {
         console.error("Error fetching or emitting bus data:", err);
       }
